@@ -1,5 +1,8 @@
 ### Hi, Hello, 
+The repositories in this organization explore different fixations.  
+They are done in good faith.
 
-Documentation of Cameron Barker and Hayley Parker projects.
+Thank you,  
+Cameron Barker and Hayley Barker 
 
-Patient, Positive, and Persistent
+
