@@ -1,9 +1,5 @@
-# Hi, Hello, 
+### Hi, Hello, 
 
-Welcome to Parker Barker's Github.
+Documentation of Cameron Barker and Hayley Parker projects.
 
-Preferences:
-
-- nftables
-- ruby
-- bash
+Patient, Positive, and Persistent
